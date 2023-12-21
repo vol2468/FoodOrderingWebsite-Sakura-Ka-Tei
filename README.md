@@ -12,3 +12,5 @@ Looking ahead, Sakura Ka Tei envisions expanding its reach, diversifying menu op
 In conclusion, Sakura Ka Tei is poised to redefine the way individuals experience Japanese cuisine online, providing a gateway to the rich and diverse flavours of Japan.
 
 See details: [Sakura Ka Tei Documentation](https://github.com/vol2468/COSC304FoodOrderingWebsite/blob/main/Sakura%20Ka%20Tei%20Documentation.pdf)
+
+Website at a glance: <https://youtu.be/kmi8hy975ro>
