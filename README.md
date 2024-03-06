@@ -14,3 +14,5 @@ In conclusion, Sakura Ka Tei is poised to redefine the way individuals experienc
 See details: [Sakura Ka Tei Documentation](https://github.com/vol2468/COSC304FoodOrderingWebsite/blob/main/Sakura%20Ka%20Tei%20Documentation.pdf)
 
 Website at a glance: <https://youtu.be/kmi8hy975ro>
+
+![mainpage](main.png)
